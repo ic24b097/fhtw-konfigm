@@ -1,3 +1,4 @@
 Gneis
 ,Granit
 ,Silex
+,Quarz
