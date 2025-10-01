@@ -1,2 +1,3 @@
 Gneis
 ,Granit
+,Quarz
